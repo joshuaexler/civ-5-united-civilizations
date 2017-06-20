@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/8/2014 8:45:41 AM -->
+<GameData>
+	<Civilization_CityNames>
+		<Delete CityName="TXT_KEY_CITY_NAME_BARCELONA" />
+		<Delete CityName="TXT_KEY_CITY_NAME_DAMASCUS" />
+		<Delete CityName="TXT_KEY_CITY_NAME_SEATTLE" />
+		<Delete CityName="TXT_KEY_CITY_NAME_LOS_ANGELES" />
+	</Civilization_CityNames>	
+  
+</GameData>

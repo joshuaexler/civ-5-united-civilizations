@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/22/2013 8:06:59 PM -->
+<GameData>
+	<!-- Adding a new CityState entry. -->
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_MAURITIUS</Type>
+			<Description>TXT_KEY_CITYSTATE_MAURITIUS</Description>
+			<ShortDescription>TXT_KEY_CITYSTATE_MAURITIUS</ShortDescription>
+			<Adjective>TXT_KEY_CITYSTATE_MAURITIUS_ADJ</Adjective>
+			<Civilopedia>TXT_KEY_CITYSTATE_MAURITIUS_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_DARK_INDIGO_AND_WHITE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+			<ArtStylePrefix>AFRICAN</ArtStylePrefix>
+			<MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAURITIUS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MAURITIUS</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAURITIUS</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAURITIUS</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAURITIUS</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAURITIUS</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+	<Language_en_US>
+
+		<Row Tag="TXT_KEY_CITYSTATE_MAURITIUS_ADJ">
+			<Text>Mauritius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MAURITIUS_PEDIA">
+			<Text>No entry available! Sorry.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

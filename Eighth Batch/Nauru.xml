@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/22/2013 8:06:59 PM -->
+<GameData>
+	<!-- Adding a new CityState entry. -->
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_NAURU</Type>
+			<Description>TXT_KEY_CITYSTATE_NAURU</Description>
+			<ShortDescription>TXT_KEY_CITYSTATE_NAURU</ShortDescription>
+			<Adjective>TXT_KEY_CITYSTATE_NAURU_ADJ</Adjective>
+			<Civilopedia>TXT_KEY_CITYSTATE_NAURU_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_DARK_LEMON</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_POLYNESIAN</ArtStyleType>
+			<ArtStyleSuffix>_ASIA</ArtStyleSuffix>
+			<ArtStylePrefix>ASIAN</ArtStylePrefix>
+			<MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_NAURU</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NAURU</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_NAURU</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NAURU</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NAURU</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NAURU</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NAURU</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+	<Language_en_US>
+
+		<Row Tag="TXT_KEY_CITYSTATE_NAURU_ADJ">
+			<Text>Nauruan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NAURU_PEDIA">
+			<Text>No entry available! Sorry.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

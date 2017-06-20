@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/22/2013 8:06:59 PM -->
+<GameData>
+	<!-- Adding a new CityState entry. -->
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_ESTONIA</Type>
+			<Description>TXT_KEY_CITYSTATE_ESTONIA</Description>
+			<ShortDescription>TXT_KEY_CITYSTATE_ESTONIA</ShortDescription>
+			<Adjective>TXT_KEY_CITYSTATE_ESTONIA_ADJ</Adjective>
+			<Civilopedia>TXT_KEY_CITYSTATE_ESTONIA_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_MIDDLE_BLUE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN</ArtStylePrefix>>
+			<MinorCivTrait>MINOR_TRAIT_INTELLECTUAL</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ESTONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ESTONIA</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_ESTONIA</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ESTONIA</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ESTONIA</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ESTONIA</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ESTONIA</MinorCivType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ESTONIA</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ESTONIA</MinorCivType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ESTONIA</MinorCivType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ESTONIA</MinorCivType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+	<Language_en_US>
+		<!--
+		<Row Tag="TXT_KEY_CITYSTATE_ESTONIA">
+			<Text>Finland</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_CITYSTATE_ESTONIA_ADJ">
+			<Text>Estonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ESTONIA_PEDIA">
+			<Text>No entry available! Sorry.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

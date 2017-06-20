@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/22/2013 8:06:59 PM -->
+<GameData>
+	<!-- Adding a new CityState entry. -->
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_BULGARIA</Type>
+			<Description>TXT_KEY_CITYSTATE_BULGARIA</Description>
+			<ShortDescription>TXT_KEY_CITYSTATE_BULGARIA</ShortDescription>
+			<Adjective>TXT_KEY_CITYSTATE_BULGARIA_ADJ</Adjective>
+			<Civilopedia>TXT_KEY_CITYSTATE_BULGARIA_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_GREEN</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+			<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_BULGARIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BULGARIA</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_BULGARIA</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BULGARIA</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BULGARIA</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BULGARIA</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BULGARIA</MinorCivType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BULGARIA</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BULGARIA</MinorCivType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BULGARIA</MinorCivType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BULGARIA</MinorCivType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+	<Language_en_US>
+		<!--
+		<Row Tag="TXT_KEY_CITYSTATE_BULGARIA">
+			<Text>Finland</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_CITYSTATE_BULGARIA_ADJ">
+			<Text>Bulgarian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BULGARIA_PEDIA">
+			<Text>No entry available! Sorry.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
