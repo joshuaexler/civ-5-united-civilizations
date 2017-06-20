@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZAMBIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ZAMBIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZAMBIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ZAMBIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZAMBIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ZAMBIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_ZAMBIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_ZAMBIA_CAPITAL">
+			<Text>Kitwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZAMBIA_CITYTHREE">
+			<Text>*Lusaka*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZAMBIA_CITYTWO">
+			<Text>Ndola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZAMBIA">
+			<Text>Zambia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_THE_PHILIPPINES</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_THE_PHILIPPINES_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_THE_PHILIPPINES</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_THE_PHILIPPINES_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_THE_PHILIPPINES</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_THE_PHILIPPINES_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_THE_PHILIPPINES" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_THE_PHILIPPINES_CAPITAL">
+			<Text>Cebu City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_THE_PHILIPPINES_CITYTHREE">
+			<Text>*Manila*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_THE_PHILIPPINES_CITYTWO">
+			<Text>Davao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_THE_PHILIPPINES">
+			<Text>The Philippines</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

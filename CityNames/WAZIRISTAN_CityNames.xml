@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_WAZIRISTAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_WAZIRISTAN_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_WAZIRISTAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_WAZIRISTAN_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_WAZIRISTAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_WAZIRISTAN_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_WAZIRISTAN" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_WAZIRISTAN_CAPITAL">
+			<Text>Wana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WAZIRISTAN_CITYTHREE">
+			<Text>*Miranshah*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WAZIRISTAN_CITYTWO">
+			<Text>Mir Ali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WAZIRISTAN">
+			<Text>Waziristan</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

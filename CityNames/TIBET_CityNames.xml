@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIBET</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TIBET_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIBET</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TIBET_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TIBET</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TIBET_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_TIBET" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_TIBET_CAPITAL">
+			<Text>Shigatse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TIBET_CITYTHREE">
+			<Text>*Lhasa*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TIBET_CITYTWO">
+			<Text>Qadom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TIBET">
+			<Text>Tibet</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

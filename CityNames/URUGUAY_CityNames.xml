@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_URUGUAY</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_URUGUAY_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_URUGUAY</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_URUGUAY_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_URUGUAY</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_URUGUAY_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_URUGUAY" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_URUGUAY_CAPITAL">
+			<Text>Salto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_URUGUAY_CITYTHREE">
+			<Text>*Montevideo*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_URUGUAY_CITYTWO">
+			<Text>Ciudad de la Costa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_URUGUAY">
+			<Text>Uruguay</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

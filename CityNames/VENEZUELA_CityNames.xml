@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_VENEZUELA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_VENEZUELA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_VENEZUELA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_VENEZUELA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_VENEZUELA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_VENEZUELA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_VENEZUELA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_VENEZUELA_CAPITAL">
+			<Text>Maracaibo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VENEZUELA_CITYTHREE">
+			<Text>*Caracas*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VENEZUELA_CITYTWO">
+			<Text>Valencia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VENEZUELA">
+			<Text>Venezuela</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

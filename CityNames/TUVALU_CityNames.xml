@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_TUVALU</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TUVALU_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TUVALU</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TUVALU_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TUVALU</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TUVALU_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_TUVALU" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_TUVALU_CAPITAL">
+			<Text>Asau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TUVALU_CITYTHREE">
+			<Text>*Funafuti*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TUVALU_CITYTWO">
+			<Text>Lolua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TUVALU">
+			<Text>Tuvalu</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

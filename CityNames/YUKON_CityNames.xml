@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_YUKON</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_YUKON_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_YUKON</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_YUKON_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_YUKON</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_YUKON_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_YUKON" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_YUKON_CAPITAL">
+			<Text>Dawson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YUKON_CITYTHREE">
+			<Text>*Whitehorse*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YUKON_CITYTWO">
+			<Text>Watson Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YUKON">
+			<Text>Yukon</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

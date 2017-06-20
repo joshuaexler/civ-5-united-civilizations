@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_WESTERN_SAHARA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_WESTERN_SAHARA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_WESTERN_SAHARA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_WESTERN_SAHARA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_WESTERN_SAHARA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_WESTERN_SAHARA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_WESTERN_SAHARA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_WESTERN_SAHARA_CAPITAL">
+			<Text>Dakhla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WESTERN_SAHARA_CITYTHREE">
+			<Text>*El Aaiun*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WESTERN_SAHARA_CITYTWO">
+			<Text>Smara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WESTERN_SAHARA">
+			<Text>Western Sahara</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

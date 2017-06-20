@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_WISCONSIN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_WISCONSIN_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_WISCONSIN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_WISCONSIN_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_WISCONSIN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_WISCONSIN_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_WISCONSIN" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_WISCONSIN_CAPITAL">
+			<Text>Milwuakee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WISCONSIN_CITYTHREE">
+			<Text>*Madison*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WISCONSIN_CITYTWO">
+			<Text>Green Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WISCONSIN">
+			<Text>Wisconsin</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

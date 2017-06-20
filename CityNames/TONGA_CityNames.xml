@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_TONGA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TONGA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TONGA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TONGA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TONGA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TONGA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_TONGA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_TONGA_CAPITAL">
+			<Text>Neiafu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TONGA_CITYTHREE">
+			<Text>*Nuku'alofa*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TONGA_CITYTWO">
+			<Text>Pangai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TONGA">
+			<Text>Tonga</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

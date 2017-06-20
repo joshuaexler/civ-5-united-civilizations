@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_UGANDA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_UGANDA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_UGANDA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_UGANDA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_UGANDA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_UGANDA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_UGANDA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_UGANDA_CAPITAL">
+			<Text>Gulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UGANDA_CITYTHREE">
+			<Text>*Kampala*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UGANDA_CITYTWO">
+			<Text>Lira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UGANDA">
+			<Text>Uganda</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

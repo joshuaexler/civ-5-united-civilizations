@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_TRINIDAD_AND_TOBAGO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TRINIDAD_AND_TOBAGO_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TRINIDAD_AND_TOBAGO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TRINIDAD_AND_TOBAGO_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TRINIDAD_AND_TOBAGO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TRINIDAD_AND_TOBAGO_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_TRINIDAD_AND_TOBAGO" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_TRINIDAD_AND_TOBAGO_CAPITAL">
+			<Text>Chaguanas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TRINIDAD_AND_TOBAGO_CITYTHREE">
+			<Text>*Port of Spain*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TRINIDAD_AND_TOBAGO_CITYTWO">
+			<Text>San Juan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TRINIDAD_AND_TOBAGO">
+			<Text>Trinidad & Tobago</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

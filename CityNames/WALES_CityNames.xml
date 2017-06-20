@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_WALES</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_WALES_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_WALES</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_WALES_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_WALES</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_WALES_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_WALES" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_WALES_CAPITAL">
+			<Text>Swansea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WALES_CITYTHREE">
+			<Text>*Caerdydd*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WALES_CITYTWO">
+			<Text>Casnewydd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WALES">
+			<Text>Wales</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

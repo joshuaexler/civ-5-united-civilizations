@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_TROY</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TROY_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TROY</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TROY_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TROY</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TROY_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_TROY" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_TROY_CAPITAL">
+			<Text>Dardunus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TROY_CITYTHREE">
+			<Text>*Troy*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TROY_CITYTWO">
+			<Text>Elaeus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TROY">
+			<Text>Troy</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_TOGO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TOGO_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TOGO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TOGO_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TOGO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TOGO_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_TOGO" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_TOGO_CAPITAL">
+			<Text>Sokode</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TOGO_CITYTHREE">
+			<Text>*Lome*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TOGO_CITYTWO">
+			<Text>Kara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TOGO">
+			<Text>Togo</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

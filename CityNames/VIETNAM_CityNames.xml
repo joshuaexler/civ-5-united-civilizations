@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_VIETNAM</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_VIETNAM_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_VIETNAM</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_VIETNAM_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_VIETNAM</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_VIETNAM_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_VIETNAM" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_VIETNAM_CAPITAL">
+			<Text>Saigon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VIETNAM_CITYTHREE">
+			<Text>*Hanoi*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VIETNAM_CITYTWO">
+			<Text>Hai Phong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VIETNAM">
+			<Text>Vietnam</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

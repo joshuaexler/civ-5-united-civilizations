@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_TOHONO_OODHAM</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TOHONO_OODHAM_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TOHONO_OODHAM</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TOHONO_OODHAM_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TOHONO_OODHAM</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TOHONO_OODHAM_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_TOHONO_OODHAM" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_TOHONO_OODHAM_CAPITAL">
+			<Text>Sikol Himadk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TOHONO_OODHAM_CITYTHREE">
+			<Text>*KuI Tatk*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TOHONO_OODHAM_CITYTWO">
+			<Text>Waw Kekk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TOHONO_OODHAM">
+			<Text>Tohono O'odham</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

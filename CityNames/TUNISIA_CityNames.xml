@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_TUNISIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TUNISIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TUNISIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TUNISIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TUNISIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TUNISIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_TUNISIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_TUNISIA_CAPITAL">
+			<Text>Safaqis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TUNISIA_CITYTHREE">
+			<Text>*Tunis*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TUNISIA_CITYTWO">
+			<Text>Aryanah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TUNISIA">
+			<Text>Tunisia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
