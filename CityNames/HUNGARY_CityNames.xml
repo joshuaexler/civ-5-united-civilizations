@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNGARY</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_HUNGARY_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNGARY</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_HUNGARY_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HUNGARY</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_HUNGARY_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_HUNGARY" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_HUNGARY_CAPITAL">
+			<Text>Debrecen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HUNGARY_CITYTHREE">
+			<Text>*Budapest*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HUNGARY_CITYTWO">
+			<Text>Miskolc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HUNGARY">
+			<Text>Hungary</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

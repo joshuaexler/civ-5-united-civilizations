@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_KIRIBATI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_KIRIBATI_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KIRIBATI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_KIRIBATI_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KIRIBATI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_KIRIBATI_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_KIRIBATI" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_KIRIBATI_CAPITAL">
+			<Text>Bairiki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIRIBATI_CITYTHREE">
+			<Text>*Tarawa*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIRIBATI_CITYTWO">
+			<Text>Taburao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIRIBATI">
+			<Text>Kiribati</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

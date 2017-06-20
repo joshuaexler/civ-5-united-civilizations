@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_KYRGYZSTAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_KYRGYZSTAN_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KYRGYZSTAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_KYRGYZSTAN_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KYRGYZSTAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_KYRGYZSTAN_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_KYRGYZSTAN" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_KYRGYZSTAN_CAPITAL">
+			<Text>Os</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KYRGYZSTAN_CITYTHREE">
+			<Text>*Bishkek*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KYRGYZSTAN_CITYTWO">
+			<Text>Celalabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KYRGYZSTAN">
+			<Text>Kyrgyzstan</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

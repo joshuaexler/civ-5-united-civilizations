@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_IVORY_COAST</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_IVORY_COAST_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IVORY_COAST</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_IVORY_COAST_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IVORY_COAST</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_IVORY_COAST_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_IVORY_COAST" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_IVORY_COAST_CAPITAL">
+			<Text>Abidjan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IVORY_COAST_CITYTHREE">
+			<Text>*Yamoussoukro*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IVORY_COAST_CITYTWO">
+			<Text>Bouake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IVORY_COAST">
+			<Text>Ivory Coast</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

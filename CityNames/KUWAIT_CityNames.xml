@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_KUWAIT</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_KUWAIT_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KUWAIT</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_KUWAIT_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KUWAIT</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_KUWAIT_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_KUWAIT" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_KUWAIT_CAPITAL">
+			<Text>Jalib as-Suyuh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KUWAIT_CITYTHREE">
+			<Text>*al-Kuwayt*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KUWAIT_CITYTWO">
+			<Text>as-Salimiyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KUWAIT">
+			<Text>Kuwait</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

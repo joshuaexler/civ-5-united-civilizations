@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_HURON</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_HURON_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HURON</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_HURON_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HURON</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_HURON_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_HURON" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_HURON_CAPITAL">
+			<Text>Attingneenongnahac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HURON_CITYTHREE">
+			<Text>*Attignousntan*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HURON_CITYTWO">
+			<Text>Tohonaenrat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HURON">
+			<Text>Huron</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

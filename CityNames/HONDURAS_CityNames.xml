@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_HONDURAS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_HONDURAS_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HONDURAS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_HONDURAS_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HONDURAS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_HONDURAS_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_HONDURAS" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_HONDURAS_CAPITAL">
+			<Text>San Pedro Sula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONDURAS_CITYTHREE">
+			<Text>*Tegucigalpa*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONDURAS_CITYTWO">
+			<Text>Choloma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONDURAS">
+			<Text>Honduras</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

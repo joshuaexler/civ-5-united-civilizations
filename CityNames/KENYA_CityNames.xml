@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_KENYA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_KENYA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KENYA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_KENYA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KENYA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_KENYA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_KENYA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_KENYA_CAPITAL">
+			<Text>Mombasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KENYA_CITYTHREE">
+			<Text>*Nairobi*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KENYA_CITYTWO">
+			<Text>Nakuru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KENYA">
+			<Text>Kenya</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

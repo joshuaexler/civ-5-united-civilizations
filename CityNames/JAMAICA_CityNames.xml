@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_JAMAICA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_JAMAICA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_JAMAICA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_JAMAICA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_JAMAICA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_JAMAICA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_JAMAICA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_JAMAICA_CAPITAL">
+			<Text>Spanish Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JAMAICA_CITYTHREE">
+			<Text>*Kingston*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JAMAICA_CITYTWO">
+			<Text>Portmore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JAMAICA">
+			<Text>Jamaica</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

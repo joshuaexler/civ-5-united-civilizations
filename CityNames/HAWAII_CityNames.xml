@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_HAWAII</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_HAWAII_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HAWAII</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_HAWAII_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HAWAII</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_HAWAII_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_HAWAII" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_HAWAII_CAPITAL">
+			<Text>Pearl City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HAWAII_CITYTHREE">
+			<Text>*Honolulu*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HAWAII_CITYTWO">
+			<Text>Hilo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HAWAII">
+			<Text>Hawaii</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
