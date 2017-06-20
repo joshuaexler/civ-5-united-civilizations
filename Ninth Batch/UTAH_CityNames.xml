@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_UTAH</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_UTAH_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_UTAH</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_UTAH_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_UTAH</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_UTAH_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_UTAH" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_UTAH_CAPITAL">
+			<Text>Provo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UTAH_CITYTHREE">
+			<Text>*Salt Lake City*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UTAH_CITYTWO">
+			<Text>St. George</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UTAH">
+			<Text>Utah</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

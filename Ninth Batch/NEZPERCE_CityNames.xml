@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_NEZ_PERCE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NEZ_PERCE_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NEZ_PERCE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NEZ_PERCE_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NEZ_PERCE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NEZ_PERCE_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_NEZ_PERCE" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_NEZ_PERCE_CAPITAL">
+			<Text>Orofino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NEZ_PERCE_CITYTHREE">
+			<Text>*Lapwai*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NEZ_PERCE_CITYTWO">
+			<Text>Koos Koos Kia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NEZ_PERCE">
+			<Text>Nez Perce</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

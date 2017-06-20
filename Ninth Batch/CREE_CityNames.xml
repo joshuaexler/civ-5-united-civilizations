@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CREE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CREE_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CREE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CREE_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CREE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CREE_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_CREE" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_CREE_CAPITAL">
+			<Text>Attikamekw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CREE_CITYTHREE">
+			<Text>*Nitassinan*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CREE_CITYTWO">
+			<Text>Nehiyawewin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CREE">
+			<Text>Cree</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

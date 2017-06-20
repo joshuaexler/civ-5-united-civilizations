@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/7/2013 3:30:10 PM -->
+<GameData>
+	<Builds>
+		<Row>
+			<Type>BUILD_PRESERVE</Type>
+			<PrereqTech>TECH_WRITING</PrereqTech>
+			<Time>150</Time>
+			<ImprovementType>IMPROVEMENT_PRESERVE</ImprovementType>
+			<Description>TXT_KEY_BUILD_PRESERVE</Description>
+			<Help>TXT_KEY_BUILD_PRESERVE_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_PRESERVE_REC</Recommendation>
+			<Kill>1</Kill>
+			<!-- BUILDING THIS UNIT COONSUMES THE UNIT -->
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<OrderPriority>96</OrderPriority>
+			<IconIndex>32</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>
+			<!-- DON'T CHANGE THESE ICON ATLASES AS THESE ARE FOR THE SMALL ICONS OF THE WORKERS -->
+		</Row>
+	</Builds>
+</GameData>

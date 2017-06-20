@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/7/2013 3:31:21 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>PRESERVE_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>PreserveAtlas256.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>PRESERVE_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>PreserveAtlas64.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

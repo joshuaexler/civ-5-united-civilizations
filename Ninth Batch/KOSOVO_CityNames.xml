@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOSOVO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_KOSOVO_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOSOVO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_KOSOVO_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOSOVO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_KOSOVO_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_KOSOVO" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_KOSOVO_CAPITAL">
+			<Text>Prizren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KOSOVO_CITYTHREE">
+			<Text>*Pristina*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KOSOVO_CITYTWO">
+			<Text>Ferizaj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KOSOVO">
+			<Text>Kosovo</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

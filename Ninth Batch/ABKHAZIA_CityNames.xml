@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ABKHAZIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ABKHAZIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ABKHAZIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ABKHAZIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ABKHAZIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ABKHAZIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_ABKHAZIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_ABKHAZIA_CAPITAL">
+			<Text>Ochamchira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ABKHAZIA_CITYTHREE">
+			<Text>*Sukhumi*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ABKHAZIA_CITYTWO">
+			<Text>Tkvarcheli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ABKHAZIA">
+			<Text>Abkhazia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

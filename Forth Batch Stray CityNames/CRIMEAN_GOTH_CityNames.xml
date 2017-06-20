@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CRIMEAN_GOTH</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CRIMEAN_GOTH_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CRIMEAN_GOTH</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CRIMEAN_GOTH_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CRIMEAN_GOTH</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CRIMEAN_GOTH_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_CRIMEAN_GOTH" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_CRIMEAN_GOTH_CAPITAL">
+			<Text>Calamita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CRIMEAN_GOTH_CITYTHREE">
+			<Text>*Doros*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CRIMEAN_GOTH_CITYTWO">
+			<Text>Alusta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CRIMEAN_GOTH">
+			<Text>Crimean Goth</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_LOMBARD</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LOMBARD_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LOMBARD</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LOMBARD_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LOMBARD</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LOMBARD_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_LOMBARD" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_LOMBARD_CAPITAL">
+			<Text>Benevento</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LOMBARD_CITYTHREE">
+			<Text>*Pavia*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LOMBARD_CITYTWO">
+			<Text>Spoleto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LOMBARD">
+			<Text>Lombard</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

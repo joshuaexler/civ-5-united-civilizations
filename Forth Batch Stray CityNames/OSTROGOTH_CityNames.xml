@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_OSTROGOTH</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_OSTROGOTH_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_OSTROGOTH</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_OSTROGOTH_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_OSTROGOTH</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_OSTROGOTH_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_OSTROGOTH" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_OSTROGOTH_CAPITAL">
+			<Text>Isonzo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_OSTROGOTH_CITYTHREE">
+			<Text>*Ravenna*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_OSTROGOTH_CITYTWO">
+			<Text>Verona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_OSTROGOTH">
+			<Text>Ostrogoth</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

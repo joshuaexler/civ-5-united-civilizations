@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/7/2013 3:29:54 PM -->
+<GameData>
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_PRESERVE</Type>
+			<Description>TXT_KEY_IMPROVEMENT_PRESERVE</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_PRESERVE_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CAMP</ArtDefineTag>
+			<BuildableOnResources>true</BuildableOnResources>
+			<PillageGold>0</PillageGold>
+			<GoldMaintenance>1</GoldMaintenance>
+			<!--
+			<SpecificCivRequired>1</SpecificCivRequired>
+			<CivilizationType>CIVILIZATION_???</CivilizationType>
+			-->
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>PRESERVE_ATLAS</IconAtlas>
+		</Row>
+	</Improvements>
+	<Improvement_ValidFeatures>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PRESERVE</ImprovementType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PRESERVE</ImprovementType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+		</Row>
+	</Improvement_ValidFeatures>
+	<!--
+	<Improvement_ResourceTypes>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PRESERVE</ImprovementType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PRESERVE</ImprovementType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PRESERVE</ImprovementType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PRESERVE</ImprovementType>
+			<ResourceType>RESOURCE_OIL</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PRESERVE</ImprovementType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PRESERVE</ImprovementType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+		</Row>
+	</Improvement_ResourceTypes>
+	-->
+	
+	<Improvement_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PRESERVE</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PRESERVE</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_Yields>
+	<Improvement_TechYieldChanges>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PRESERVE</ImprovementType>
+			<TechType>TECH_EDUCATION</TechType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PRESERVE</ImprovementType>
+			<TechType>TECH_FERTILIZER</TechType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Improvement_TechYieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PRESERVE">
+			<Text>Nature Preserve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PRESERVE">
+			<Text>Build a Nature Preserve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PRESERVE_HELP">
+			<Text>A Nature Reserve provides +1 [ICON_FOOD] Food and +1[ICON_SCIENCE], costs 1 [ICON_GOLD] Gold in maintenance, and will consume the unit that is building it. It does not improve any resources that it is built on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PRESERVE_REC">
+			<Text>A Nature Preserve can only be built on forests and jungles. It provides +1 [ICON_FOOD] Food and +1[ICON_SCIENCE], with additional food and science bonuses for discovering Fertilizer and Education, respectively.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PRESERVE_TEXT">
+			<Text>A Nature Preserve provides +1 [ICON_FOOD] Food and +1[ICON_SCIENCE], costs 1 [ICON_GOLD] Gold in maintenance, and will consume the unit that is building it. It does not improve any resources that it is built on. Lands set aside for the sake of nature itself is a concept intrinsic to the majority of the world's peoples, only later dulled by those most dastardly of dogmas, profit and property. In modern times parklands are designated with a strategic eye towards conserving natural resources; maintaining the health of ecosystems; studying flora and fauna, and enjoying nature.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

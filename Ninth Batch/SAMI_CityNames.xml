@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SAMI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SAMI_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SAMI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SAMI_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SAMI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SAMI_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SAMI" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMI_CAPITAL">
+			<Text>Guovdageaidnu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMI_CITYTHREE">
+			<Text>*Karasjohka*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMI_CITYTWO">
+			<Text>Gaivuotna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMI">
+			<Text>Sami</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

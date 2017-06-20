@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/7/2013 3:29:34 PM -->
+<GameData>
+	<!-- worker update if required -->
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_PRESERVE</BuildType>
+		</Row>
+	</Unit_Builds>
+</GameData>

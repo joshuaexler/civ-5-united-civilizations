@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivTraits>
+		<Row>
+			<Type>MINOR_TRAIT_RENTIER</Type>
+			<Description>TXT_KEY_MINOR_TRAIT_RENTIER</Description>
+			<TraitIcon>CityStateRentier.dds</TraitIcon>
+			<TraitTitleIcon>CityStatePopupTopGeneric.dds</TraitTitleIcon>
+			<BackgroundImage>citystatebackgroundmilitary.dds</BackgroundImage>
+		</Row>
+		<Row>
+			<Type>MINOR_TRAIT_INDIGENOUS</Type>
+			<Description>TXT_KEY_MINOR_TRAIT_INDIGENOUS</Description>
+			<TraitIcon>CityStateIndigenous.dds</TraitIcon>
+			<TraitTitleIcon>CityStatePopupTopGeneric.dds</TraitTitleIcon>
+			<BackgroundImage>citystatebackgroundmaritime.dds</BackgroundImage>
+		</Row>
+		<Row>
+			<Type>MINOR_TRAIT_COMMERCIAL</Type>
+			<Description>TXT_KEY_MINOR_TRAIT_COMMERCIAL</Description>
+			<TraitIcon>CityStateCommercial.dds</TraitIcon>
+			<TraitTitleIcon>CityStatePopupTopGeneric.dds</TraitTitleIcon>
+			<BackgroundImage>citystatebackgroundmaritime.dds</BackgroundImage>
+		</Row>
+		<Row>
+			<Type>MINOR_TRAIT_INTELLECTUAL</Type>
+			<Description>TXT_KEY_MINOR_TRAIT_INTELLECTUAL</Description>
+			<TraitIcon>CityStateIntellectual.dds</TraitIcon>
+			<TraitTitleIcon>CityStatePopupTopGeneric.dds</TraitTitleIcon>
+			<BackgroundImage>citystatebackgroundculture.dds</BackgroundImage>
+		</Row>
+		<Row>
+			<Type>MINOR_TRAIT_PRODUCTIVE</Type>
+			<Description>TXT_KEY_MINOR_TRAIT_PRODUCTIVE</Description>
+			<TraitIcon>CityStateProductive.dds</TraitIcon>
+			<TraitTitleIcon>CityStatePopupTopGeneric.dds</TraitTitleIcon>
+			<BackgroundImage>citystatebackgroundmilitary.dds</BackgroundImage>
+		</Row>
+		<Row>
+			<Type>MINOR_TRAIT_PROGRESSIVE</Type>
+			<Description>TXT_KEY_MINOR_TRAIT_PROGRESSIVE</Description>
+			<TraitIcon>CityStateProgressive.dds</TraitIcon>
+			<TraitTitleIcon>CityStatePopupTopGeneric.dds</TraitTitleIcon>
+			<BackgroundImage>citystatebackgroundmilitary.dds</BackgroundImage>
+		</Row>
+	</MinorCivTraits>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_TRAIT_RENTIER">
+			<Text>Rentier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_RENTIER_ADJECTIVE">
+			<Text>Rentier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_RENTIER_TT">
+			<Text>A befriended [COLOR_POSITIVE_TEXT]Rentier[ENDCOLOR] City-State will provide you massive gifts of [ICON_GOLD] gold, but your citizens will disapprove of your exploitative shenanigans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_TRAIT_INDIGENOUS">
+			<Text>Indigenous</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_INDIGENOUS_ADJECTIVE">
+			<Text>Indigenous</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_INDIGENOUS_TT">
+			<Text>Befriending a [COLOR_POSITIVE_TEXT]Indigenous[ENDCOLOR] City-State will improve your citizens' [ICON_HAPPINESS] happiness over time by connecting them with the planet and their true selves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_TRAIT_COMMERCIAL">
+			<Text>Commercial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_COMMERCIAL_ADJECTIVE">
+			<Text>Commercial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_COMMERCIAL_TT">
+			<Text>A befriended [COLOR_POSITIVE_TEXT]Commercial[ENDCOLOR] City-State will provide you gifts of [ICON_GOLD] gold, making you stronger economically.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_TRAIT_INTELLECTUAL">
+			<Text>Intellectual</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_INTELLECTUAL_ADJECTIVE">
+			<Text>Intellectual</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_INTELLECTUAL_TT">
+			<Text>A befriended [COLOR_POSITIVE_TEXT]Intellectual[ENDCOLOR] City-State will provide you [ICON_SCIENCE] research progress, accelerating your technological advancement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_TRAIT_PRODUCTIVE">
+			<Text>Productive</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_PRODUCTIVE_ADJECTIVE">
+			<Text>Productive</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_PRODUCTIVE_TT">
+			<Text>A befriended [COLOR_POSITIVE_TEXT]Productive[ENDCOLOR] City-State will provide you with [ICON_PRODUCTION] production, spread over your cities, letting you build more.[NEWLINE]Your capital receives slightly more than the other cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_TRAIT_PROGRESSIVE">
+			<Text>Progressive</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_PROGRESSIVE_ADJECTIVE">
+			<Text>Progressive</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_PROGRESSIVE_TT">
+			<Text>A befriended [COLOR_POSITIVE_TEXT]Progressive[ENDCOLOR] City-State will provide you with [ICON_GREAT_PEOPLE] great person creation progress, bringing more great people to your lands to progress your civilization.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
