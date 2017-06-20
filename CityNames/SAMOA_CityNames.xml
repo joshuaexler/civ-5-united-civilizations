@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SAMOA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SAMOA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SAMOA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SAMOA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SAMOA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SAMOA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SAMOA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMOA_CAPITAL">
+			<Text>Vaitele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMOA_CITYTHREE">
+			<Text>*Apia*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMOA_CITYTWO">
+			<Text>Salelologa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMOA">
+			<Text>Samoa</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

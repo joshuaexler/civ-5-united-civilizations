@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_LITHUANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LITHUANIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LITHUANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LITHUANIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LITHUANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LITHUANIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_LITHUANIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_LITHUANIA_CAPITAL">
+			<Text>Kaunas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LITHUANIA_CITYTHREE">
+			<Text>*Vilnius*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LITHUANIA_CITYTWO">
+			<Text>Klaipeda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LITHUANIA">
+			<Text>Lithuania</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

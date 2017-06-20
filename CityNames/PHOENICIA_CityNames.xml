@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_PHOENICIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PHOENICIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PHOENICIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PHOENICIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PHOENICIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PHOENICIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_PHOENICIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_PHOENICIA_CAPITAL">
+			<Text>Tyre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PHOENICIA_CITYTHREE">
+			<Text>*Byblos*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PHOENICIA_CITYTWO">
+			<Text>Sidon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PHOENICIA">
+			<Text>Phoenicia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

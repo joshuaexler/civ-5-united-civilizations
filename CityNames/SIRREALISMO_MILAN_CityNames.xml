@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIRREALISMO_MILAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SIRREALISMO_MILAN_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIRREALISMO_MILAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SIRREALISMO_MILAN_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIRREALISMO_MILAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SIRREALISMO_MILAN_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SIRREALISMO_MILAN" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SIRREALISMO_MILAN_CAPITAL">
+			<Text>Corsico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIRREALISMO_MILAN_CITYTHREE">
+			<Text>*Milan*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIRREALISMO_MILAN_CITYTWO">
+			<Text>Sesto San Giovanni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIRREALISMO_MILAN">
+			<Text>Milan</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

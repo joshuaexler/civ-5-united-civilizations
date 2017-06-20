@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_NEPAL</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NEPAL_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NEPAL</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NEPAL_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NEPAL</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NEPAL_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_NEPAL" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_NEPAL_CAPITAL">
+			<Text>Pokhara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NEPAL_CITYTHREE">
+			<Text>*Kathmandu*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NEPAL_CITYTWO">
+			<Text>Lalitpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NEPAL">
+			<Text>Nepal</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

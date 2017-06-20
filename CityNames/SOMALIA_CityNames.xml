@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOMALIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SOMALIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOMALIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SOMALIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOMALIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SOMALIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SOMALIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SOMALIA_CAPITAL">
+			<Text>Hargeysa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOMALIA_CITYTHREE">
+			<Text>*Mogadishu*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOMALIA_CITYTWO">
+			<Text>Marka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOMALIA">
+			<Text>Somalia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

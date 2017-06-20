@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_NEW_BRUNSWICK</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NEW_BRUNSWICK_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NEW_BRUNSWICK</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NEW_BRUNSWICK_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NEW_BRUNSWICK</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NEW_BRUNSWICK_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_NEW_BRUNSWICK" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_NEW_BRUNSWICK_CAPITAL">
+			<Text>Saint John</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NEW_BRUNSWICK_CITYTHREE">
+			<Text>*Fredericton*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NEW_BRUNSWICK_CITYTWO">
+			<Text>Moncton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NEW_BRUNSWICK">
+			<Text>New Brunswick</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_PRINCE_EDWARD</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PRINCE_EDWARD_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PRINCE_EDWARD</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PRINCE_EDWARD_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PRINCE_EDWARD</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PRINCE_EDWARD_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_PRINCE_EDWARD" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_PRINCE_EDWARD_CAPITAL">
+			<Text>Summerside</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRINCE_EDWARD_CITYTHREE">
+			<Text>*Charlottetown*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRINCE_EDWARD_CITYTWO">
+			<Text>Cornwall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRINCE_EDWARD">
+			<Text>Prince Edward</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

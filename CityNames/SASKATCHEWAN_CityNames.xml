@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SASKATCHEWAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SASKATCHEWAN_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SASKATCHEWAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SASKATCHEWAN_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SASKATCHEWAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SASKATCHEWAN_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SASKATCHEWAN" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SASKATCHEWAN_CAPITAL">
+			<Text>Saskatoon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SASKATCHEWAN_CITYTHREE">
+			<Text>*Regina*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SASKATCHEWAN_CITYTWO">
+			<Text>Moose Jaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SASKATCHEWAN">
+			<Text>Saskatchewan</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_LATVIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LATVIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LATVIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LATVIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LATVIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LATVIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_LATVIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_LATVIA_CAPITAL">
+			<Text>Daugavpils</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LATVIA_CITYTHREE">
+			<Text>*Riga*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LATVIA_CITYTWO">
+			<Text>Liepaja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LATVIA">
+			<Text>Latvia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

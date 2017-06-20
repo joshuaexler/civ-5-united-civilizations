@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALAWI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MALAWI_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALAWI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MALAWI_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALAWI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MALAWI_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_MALAWI" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_MALAWI_CAPITAL">
+			<Text>Blantyre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALAWI_CITYTHREE">
+			<Text>*Lilongwe*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALAWI_CITYTWO">
+			<Text>Mzuzu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALAWI">
+			<Text>Malawi</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

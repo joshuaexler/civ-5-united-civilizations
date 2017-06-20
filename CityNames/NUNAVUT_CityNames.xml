@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_NUNAVUT</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NUNAVUT_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NUNAVUT</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NUNAVUT_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NUNAVUT</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NUNAVUT_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_NUNAVUT" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_NUNAVUT_CAPITAL">
+			<Text>Kangiqliniq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NUNAVUT_CITYTHREE">
+			<Text>*Iqaluit*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NUNAVUT_CITYTWO">
+			<Text>Pangnirtung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NUNAVUT">
+			<Text>Nunavut</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

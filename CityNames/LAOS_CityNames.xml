@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_LAOS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LAOS_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LAOS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LAOS_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LAOS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LAOS_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_LAOS" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_LAOS_CAPITAL">
+			<Text>Pakxe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LAOS_CITYTHREE">
+			<Text>*Vientiane*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LAOS_CITYTWO">
+			<Text>Savannakhet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LAOS">
+			<Text>Laos</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

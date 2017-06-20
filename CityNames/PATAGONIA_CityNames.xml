@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_PATAGONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PATAGONIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PATAGONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PATAGONIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PATAGONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PATAGONIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_PATAGONIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_PATAGONIA_CAPITAL">
+			<Text>Comodoro Rivadavia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PATAGONIA_CITYTHREE">
+			<Text>*Neuquen*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PATAGONIA_CITYTWO">
+			<Text>Punta Arenas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PATAGONIA">
+			<Text>Patagonia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

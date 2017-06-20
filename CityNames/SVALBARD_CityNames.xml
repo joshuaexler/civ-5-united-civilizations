@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SVALBARD</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SVALBARD_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SVALBARD</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SVALBARD_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SVALBARD</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SVALBARD_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SVALBARD" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SVALBARD_CAPITAL">
+			<Text>Sveagruva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SVALBARD_CITYTHREE">
+			<Text>*Longyearbyen*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SVALBARD_CITYTWO">
+			<Text>Ny-Alesund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SVALBARD">
+			<Text>Svalbard</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

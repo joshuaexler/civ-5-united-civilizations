@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERU</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PERU_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERU</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PERU_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PERU</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PERU_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_PERU" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_PERU_CAPITAL">
+			<Text>Arequipa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PERU_CITYTHREE">
+			<Text>*Lima*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PERU_CITYTWO">
+			<Text>Trujillo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PERU">
+			<Text>Peru</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

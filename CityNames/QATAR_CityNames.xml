@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_QATAR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_QATAR_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_QATAR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_QATAR_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_QATAR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_QATAR_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_QATAR" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_QATAR_CAPITAL">
+			<Text>ar-Rayyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QATAR_CITYTHREE">
+			<Text>*Doha*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QATAR_CITYTWO">
+			<Text>Umm Salal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QATAR">
+			<Text>Qatar</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

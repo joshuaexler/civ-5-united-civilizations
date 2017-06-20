@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ROMANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ROMANIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ROMANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ROMANIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ROMANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ROMANIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_ROMANIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_ROMANIA_CAPITAL">
+			<Text>Cluj-Napoca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ROMANIA_CITYTHREE">
+			<Text>*Bucharest*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ROMANIA_CITYTWO">
+			<Text>Iasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ROMANIA">
+			<Text>Romania</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

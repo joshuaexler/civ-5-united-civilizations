@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIRREALISMO_FLORENCE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SIRREALISMO_FLORENCE_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIRREALISMO_FLORENCE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SIRREALISMO_FLORENCE_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIRREALISMO_FLORENCE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SIRREALISMO_FLORENCE_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SIRREALISMO_FLORENCE" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SIRREALISMO_FLORENCE_CAPITAL">
+			<Text>Scandicci</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIRREALISMO_FLORENCE_CITYTHREE">
+			<Text>*Florence*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIRREALISMO_FLORENCE_CITYTWO">
+			<Text>Sesto Fiorentino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIRREALISMO_FLORENCE">
+			<Text>Florence</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

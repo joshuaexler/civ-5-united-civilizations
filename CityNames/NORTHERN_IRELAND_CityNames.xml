@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_NORTHERN_IRELAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NORTHERN_IRELAND_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NORTHERN_IRELAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NORTHERN_IRELAND_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NORTHERN_IRELAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NORTHERN_IRELAND_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_NORTHERN_IRELAND" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_NORTHERN_IRELAND_CAPITAL">
+			<Text>Derry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NORTHERN_IRELAND_CITYTHREE">
+			<Text>*Belfast*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NORTHERN_IRELAND_CITYTWO">
+			<Text>Lisburn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NORTHERN_IRELAND">
+			<Text>Northern Ireland</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

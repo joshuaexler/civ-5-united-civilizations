@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_PUEBLO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PUEBLO_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PUEBLO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PUEBLO_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PUEBLO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PUEBLO_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_PUEBLO" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_PUEBLO_CAPITAL">
+			<Text>Salado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PUEBLO_CITYTHREE">
+			<Text>*Hohokam*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PUEBLO_CITYTWO">
+			<Text>Fremont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PUEBLO">
+			<Text>Pueblo</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

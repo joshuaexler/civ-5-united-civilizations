@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALAYSIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MALAYSIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALAYSIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MALAYSIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALAYSIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MALAYSIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_MALAYSIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_MALAYSIA_CAPITAL">
+			<Text>Klang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALAYSIA_CITYTHREE">
+			<Text>*Kuala Lumpur*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALAYSIA_CITYTWO">
+			<Text>Subang Jaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALAYSIA">
+			<Text>Malaysia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_LESOTHO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LESOTHO_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LESOTHO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LESOTHO_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LESOTHO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LESOTHO_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_LESOTHO" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_LESOTHO_CAPITAL">
+			<Text>Mafenteng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LESOTHO_CITYTHREE">
+			<Text>*Maseru*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LESOTHO_CITYTWO">
+			<Text>Hlotse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LESOTHO">
+			<Text>Lesotho</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_NORWAY</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NORWAY_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NORWAY</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NORWAY_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NORWAY</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NORWAY_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_NORWAY" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_NORWAY_CAPITAL">
+			<Text>Bergen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NORWAY_CITYTHREE">
+			<Text>*Oslo*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NORWAY_CITYTWO">
+			<Text>Trondheim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NORWAY">
+			<Text>Norway</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

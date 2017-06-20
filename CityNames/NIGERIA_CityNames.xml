@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_NIGERIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NIGERIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NIGERIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NIGERIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NIGERIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NIGERIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_NIGERIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_NIGERIA_CAPITAL">
+			<Text>Lagos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NIGERIA_CITYTHREE">
+			<Text>*Abuja*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NIGERIA_CITYTWO">
+			<Text>Kano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NIGERIA">
+			<Text>Nigeria</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

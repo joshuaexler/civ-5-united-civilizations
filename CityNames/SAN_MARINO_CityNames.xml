@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SAN_MARINO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SAN_MARINO_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SAN_MARINO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SAN_MARINO_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SAN_MARINO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SAN_MARINO_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SAN_MARINO" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SAN_MARINO_CAPITAL">
+			<Text>Serravalle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAN_MARINO_CITYTHREE">
+			<Text>*San Marino*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAN_MARINO_CITYTWO">
+			<Text>Borgo Maggiore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAN_MARINO">
+			<Text>San Marino</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

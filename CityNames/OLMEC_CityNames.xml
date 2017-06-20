@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_OLMEC</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_OLMEC_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_OLMEC</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_OLMEC_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_OLMEC</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_OLMEC_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_OLMEC" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_OLMEC_CAPITAL">
+			<Text>Laguna de los Cerros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_OLMEC_CITYTHREE">
+			<Text>*La Venta*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_OLMEC_CITYTWO">
+			<Text>Tres Zapotes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_OLMEC">
+			<Text>Olmec</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

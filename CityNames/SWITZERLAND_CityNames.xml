@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SWITZERLAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SWITZERLAND_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SWITZERLAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SWITZERLAND_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SWITZERLAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SWITZERLAND_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SWITZERLAND" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SWITZERLAND_CAPITAL">
+			<Text>Zurich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SWITZERLAND_CITYTHREE">
+			<Text>*Bern*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SWITZERLAND_CITYTWO">
+			<Text>Geneva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SWITZERLAND">
+			<Text>Switzerland</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

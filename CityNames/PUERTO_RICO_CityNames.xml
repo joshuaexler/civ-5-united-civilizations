@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_PUERTO_RICO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PUERTO_RICO_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PUERTO_RICO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PUERTO_RICO_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PUERTO_RICO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PUERTO_RICO_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_PUERTO_RICO" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_PUERTO_RICO_CAPITAL">
+			<Text>Bayamon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PUERTO_RICO_CITYTHREE">
+			<Text>*San Juan*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PUERTO_RICO_CITYTWO">
+			<Text>Carolina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PUERTO_RICO">
+			<Text>Puerto Rico</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_TASMANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TASMANIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TASMANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TASMANIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TASMANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TASMANIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_TASMANIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_TASMANIA_CAPITAL">
+			<Text>Launceston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TASMANIA_CITYTHREE">
+			<Text>*Hobart*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TASMANIA_CITYTWO">
+			<Text>Devonport</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TASMANIA">
+			<Text>Tasmania</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

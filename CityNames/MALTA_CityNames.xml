@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALTA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MALTA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALTA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MALTA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALTA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MALTA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_MALTA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_MALTA_CAPITAL">
+			<Text>Birkirkara </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALTA_CITYTHREE">
+			<Text>*Valletta*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALTA_CITYTWO">
+			<Text>Mosta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALTA">
+			<Text>Malta</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

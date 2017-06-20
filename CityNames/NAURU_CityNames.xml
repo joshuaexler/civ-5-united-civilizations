@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_NAURU</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NAURU_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NAURU</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NAURU_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NAURU</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NAURU_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_NAURU" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_NAURU_CAPITAL">
+			<Text>Denigomudu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NAURU_CITYTHREE">
+			<Text>*Yaren*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NAURU_CITYTWO">
+			<Text>Meneng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NAURU">
+			<Text>Nauru</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

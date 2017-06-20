@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_LIBERIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LIBERIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LIBERIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LIBERIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LIBERIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LIBERIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_LIBERIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_LIBERIA_CAPITAL">
+			<Text>Gbarnga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LIBERIA_CITYTHREE">
+			<Text>*Monrovia*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LIBERIA_CITYTWO">
+			<Text>Ganta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LIBERIA">
+			<Text>Liberia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

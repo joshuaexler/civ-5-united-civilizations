@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAURITANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MAURITANIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAURITANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MAURITANIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAURITANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MAURITANIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_MAURITANIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_MAURITANIA_CAPITAL">
+			<Text>Nouadhibou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MAURITANIA_CITYTHREE">
+			<Text>*Nouakchott*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MAURITANIA_CITYTWO">
+			<Text>Kifah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MAURITANIA">
+			<Text>Mauritania</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

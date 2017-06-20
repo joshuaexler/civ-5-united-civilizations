@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SLOVENIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SLOVENIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SLOVENIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SLOVENIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SLOVENIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SLOVENIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SLOVENIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SLOVENIA_CAPITAL">
+			<Text>Maribor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SLOVENIA_CITYTHREE">
+			<Text>*Ljubljana*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SLOVENIA_CITYTWO">
+			<Text>Celje</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SLOVENIA">
+			<Text>Slovenia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

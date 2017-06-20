@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_NIUE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NIUE_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NIUE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NIUE_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NIUE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NIUE_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_NIUE" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_NIUE_CAPITAL">
+			<Text>Hakupu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NIUE_CITYTHREE">
+			<Text>*Alofi*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NIUE_CITYTWO">
+			<Text>Avatele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NIUE">
+			<Text>Niue</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

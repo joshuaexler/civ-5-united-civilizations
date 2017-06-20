@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SWAZILAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SWAZILAND_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SWAZILAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SWAZILAND_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SWAZILAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SWAZILAND_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SWAZILAND" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SWAZILAND_CAPITAL">
+			<Text>Manzini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SWAZILAND_CITYTHREE">
+			<Text>*Mbabane*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SWAZILAND_CITYTWO">
+			<Text>Big Bend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SWAZILAND">
+			<Text>Swaziland</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALDIVES</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MALDIVES_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALDIVES</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MALDIVES_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALDIVES</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MALDIVES_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_MALDIVES" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_MALDIVES_CAPITAL">
+			<Text>Hithadhoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALDIVES_CITYTHREE">
+			<Text>*Male*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALDIVES_CITYTWO">
+			<Text>Fuvammulah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALDIVES">
+			<Text>Maldives</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

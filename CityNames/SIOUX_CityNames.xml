@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIOUX</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SIOUX_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIOUX</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SIOUX_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIOUX</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SIOUX_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SIOUX" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SIOUX_CAPITAL">
+			<Text>Wichiyena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIOUX_CITYTHREE">
+			<Text>*Isanyathi*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIOUX_CITYTWO">
+			<Text>Lakhóta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIOUX">
+			<Text>Sioux</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

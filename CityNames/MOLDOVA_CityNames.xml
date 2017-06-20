@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_MOLDOVA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MOLDOVA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MOLDOVA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MOLDOVA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MOLDOVA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MOLDOVA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_MOLDOVA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_MOLDOVA_CAPITAL">
+			<Text>Tiraspol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOLDOVA_CITYTHREE">
+			<Text>*Chisinau*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOLDOVA_CITYTWO">
+			<Text>Balti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOLDOVA">
+			<Text>Moldova</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

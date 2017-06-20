@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_NOVA_SCOTIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NOVA_SCOTIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NOVA_SCOTIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NOVA_SCOTIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NOVA_SCOTIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NOVA_SCOTIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_NOVA_SCOTIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_NOVA_SCOTIA_CAPITAL">
+			<Text>Truro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NOVA_SCOTIA_CITYTHREE">
+			<Text>*Halifax*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NOVA_SCOTIA_CITYTWO">
+			<Text>New Glasgow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NOVA_SCOTIA">
+			<Text>Nova Scotia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

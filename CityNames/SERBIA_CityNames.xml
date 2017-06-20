@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SERBIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SERBIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SERBIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SERBIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SERBIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SERBIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SERBIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SERBIA_CAPITAL">
+			<Text>Novi Sad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SERBIA_CITYTHREE">
+			<Text>*Belgrade*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SERBIA_CITYTWO">
+			<Text>Kragujevac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SERBIA">
+			<Text>Serbia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

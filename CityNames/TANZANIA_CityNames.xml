@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_TANZANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TANZANIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TANZANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TANZANIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TANZANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TANZANIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_TANZANIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_TANZANIA_CAPITAL">
+			<Text>Mwanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TANZANIA_CITYTHREE">
+			<Text>*Dar es Salaam*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TANZANIA_CITYTWO">
+			<Text>Zanzibar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TANZANIA">
+			<Text>Tanzania</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

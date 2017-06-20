@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_PANAMA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PANAMA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PANAMA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PANAMA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PANAMA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PANAMA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_PANAMA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CAPITAL">
+			<Text>San Miguelito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITYTHREE">
+			<Text>*Panama City*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITYTWO">
+			<Text>Tocumen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA">
+			<Text>Panama</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

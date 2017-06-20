@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOUTH_AFRICA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SOUTH_AFRICA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOUTH_AFRICA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SOUTH_AFRICA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOUTH_AFRICA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SOUTH_AFRICA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SOUTH_AFRICA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SOUTH_AFRICA_CAPITAL">
+			<Text>Johannesburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOUTH_AFRICA_CITYTHREE">
+			<Text>*Pretoria*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOUTH_AFRICA_CITYTWO">
+			<Text>Cape Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOUTH_AFRICA">
+			<Text>South Africa</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

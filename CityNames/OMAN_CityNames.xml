@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_OMAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_OMAN_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_OMAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_OMAN_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_OMAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_OMAN_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_OMAN" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_OMAN_CAPITAL">
+			<Text>Salalah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_OMAN_CITYTHREE">
+			<Text>*Muscat*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_OMAN_CITYTWO">
+			<Text>Suhar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_OMAN">
+			<Text>Oman</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

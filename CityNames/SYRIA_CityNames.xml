@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SYRIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SYRIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SYRIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SYRIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SYRIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SYRIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SYRIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SYRIA_CAPITAL">
+			<Text>Aleppo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYRIA_CITYTHREE">
+			<Text>*Damascus*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYRIA_CITYTWO">
+			<Text>Hims</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYRIA">
+			<Text>Syria</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

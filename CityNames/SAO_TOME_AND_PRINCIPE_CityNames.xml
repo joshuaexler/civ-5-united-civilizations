@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SAO_TOME_AND_PRINCIPE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SAO_TOME_AND_PRINCIPE_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SAO_TOME_AND_PRINCIPE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SAO_TOME_AND_PRINCIPE_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SAO_TOME_AND_PRINCIPE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SAO_TOME_AND_PRINCIPE_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SAO_TOME_AND_PRINCIPE" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SAO_TOME_AND_PRINCIPE_CAPITAL">
+			<Text>Santo Amaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAO_TOME_AND_PRINCIPE_CITYTHREE">
+			<Text>*Sao Tome*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAO_TOME_AND_PRINCIPE_CITYTWO">
+			<Text>Neves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAO_TOME_AND_PRINCIPE">
+			<Text>Sao Tome and Principe</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

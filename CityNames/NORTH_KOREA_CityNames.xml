@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_NORTH_KOREA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NORTH_KOREA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NORTH_KOREA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NORTH_KOREA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NORTH_KOREA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NORTH_KOREA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_NORTH_KOREA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_NORTH_KOREA_CAPITAL">
+			<Text>Hamhung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NORTH_KOREA_CITYTHREE">
+			<Text>*Pyongyang*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NORTH_KOREA_CITYTWO">
+			<Text>Nampo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NORTH_KOREA">
+			<Text>North Korea</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

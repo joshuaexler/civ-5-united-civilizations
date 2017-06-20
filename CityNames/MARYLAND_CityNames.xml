@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_MARYLAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MARYLAND_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MARYLAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MARYLAND_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MARYLAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MARYLAND_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_MARYLAND" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_MARYLAND_CAPITAL">
+			<Text>Baltimore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MARYLAND_CITYTHREE">
+			<Text>*Annapolis*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MARYLAND_CITYTWO">
+			<Text>Frederick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MARYLAND">
+			<Text>Maryland</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

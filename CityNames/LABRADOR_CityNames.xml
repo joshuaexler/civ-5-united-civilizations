@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_LABRADOR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LABRADOR_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LABRADOR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LABRADOR_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LABRADOR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LABRADOR_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_LABRADOR" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_LABRADOR_CAPITAL">
+			<Text>Labrador City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LABRADOR_CITYTHREE">
+			<Text>*Happy Valley-Goose Bay*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LABRADOR_CITYTWO">
+			<Text>Wabush</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LABRADOR">
+			<Text>Labrador</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

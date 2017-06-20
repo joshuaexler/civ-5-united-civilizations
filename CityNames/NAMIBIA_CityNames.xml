@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_NAMIBIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NAMIBIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NAMIBIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NAMIBIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NAMIBIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NAMIBIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_NAMIBIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_NAMIBIA_CAPITAL">
+			<Text>Rundu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NAMIBIA_CITYTHREE">
+			<Text>*Windhoek*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NAMIBIA_CITYTWO">
+			<Text>Walvis Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NAMIBIA">
+			<Text>Namibia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

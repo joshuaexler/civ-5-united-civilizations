@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_MICRONESIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MICRONESIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MICRONESIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MICRONESIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MICRONESIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MICRONESIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_MICRONESIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_MICRONESIA_CAPITAL">
+			<Text>Weno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MICRONESIA_CITYTHREE">
+			<Text>*Palikir*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MICRONESIA_CITYTWO">
+			<Text>Kitti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MICRONESIA">
+			<Text>Micronesia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

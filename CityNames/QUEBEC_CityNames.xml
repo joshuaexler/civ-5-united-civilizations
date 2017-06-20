@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_QUEBEC</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_QUEBEC_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_QUEBEC</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_QUEBEC_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_QUEBEC</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_QUEBEC_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_QUEBEC" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CAPITAL">
+			<Text>Montreal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITYTHREE">
+			<Text>*Quebec City*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITYTWO">
+			<Text>Laval</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC">
+			<Text>Quebec</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

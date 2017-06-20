@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_PAKISTAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PAKISTAN_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PAKISTAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PAKISTAN_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PAKISTAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_PAKISTAN_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_PAKISTAN" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_PAKISTAN_CAPITAL">
+			<Text>Karachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PAKISTAN_CITYTHREE">
+			<Text>*Islamabad*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PAKISTAN_CITYTWO">
+			<Text>Lahore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PAKISTAN">
+			<Text>Pakistan</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

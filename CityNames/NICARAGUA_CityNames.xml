@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_NICARAGUA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NICARAGUA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NICARAGUA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NICARAGUA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NICARAGUA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NICARAGUA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_NICARAGUA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_NICARAGUA_CAPITAL">
+			<Text>Leon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NICARAGUA_CITYTHREE">
+			<Text>*Managua*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NICARAGUA_CITYTWO">
+			<Text>Masaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NICARAGUA">
+			<Text>Nicaragua</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

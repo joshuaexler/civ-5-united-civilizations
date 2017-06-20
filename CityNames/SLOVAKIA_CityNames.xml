@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SLOVAKIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SLOVAKIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SLOVAKIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SLOVAKIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SLOVAKIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SLOVAKIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SLOVAKIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SLOVAKIA_CAPITAL">
+			<Text>Kosice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SLOVAKIA_CITYTHREE">
+			<Text>*Bratislava*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SLOVAKIA_CITYTWO">
+			<Text>Presov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SLOVAKIA">
+			<Text>Slovakia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

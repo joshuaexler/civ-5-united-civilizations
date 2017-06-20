@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_TAIWAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TAIWAN_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TAIWAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TAIWAN_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TAIWAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TAIWAN_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_TAIWAN" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_TAIWAN_CAPITAL">
+			<Text>Kaosiung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TAIWAN_CITYTHREE">
+			<Text>*Taipei*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TAIWAN_CITYTWO">
+			<Text>Taichung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TAIWAN">
+			<Text>Taiwan</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

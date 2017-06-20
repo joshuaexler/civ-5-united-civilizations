@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_MACEDONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MACEDONIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MACEDONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MACEDONIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MACEDONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MACEDONIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_MACEDONIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_MACEDONIA_CAPITAL">
+			<Text>Kumanovo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MACEDONIA_CITYTHREE">
+			<Text>*Skopje*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MACEDONIA_CITYTWO">
+			<Text>Bitola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MACEDONIA">
+			<Text>Macedonia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

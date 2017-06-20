@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIRREALISMO_VATICAN_CITY</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SIRREALISMO_VATICAN_CITY_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIRREALISMO_VATICAN_CITY</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SIRREALISMO_VATICAN_CITY_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIRREALISMO_VATICAN_CITY</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SIRREALISMO_VATICAN_CITY_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SIRREALISMO_VATICAN_CITY" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SIRREALISMO_VATICAN_CITY_CAPITAL">
+			<Text>St. Peter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIRREALISMO_VATICAN_CITY_CITYTHREE">
+			<Text>*Vatican City*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIRREALISMO_VATICAN_CITY_CITYTWO">
+			<Text>New Vatican</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIRREALISMO_VATICAN_CITY">
+			<Text>Vatican</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

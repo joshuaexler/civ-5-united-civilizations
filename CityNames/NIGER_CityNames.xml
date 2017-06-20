@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_NIGER</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NIGER_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NIGER</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NIGER_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NIGER</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NIGER_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_NIGER" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_NIGER_CAPITAL">
+			<Text>Zinder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NIGER_CITYTHREE">
+			<Text>*Niamey*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NIGER_CITYTWO">
+			<Text>Maradi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NIGER">
+			<Text>Niger</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

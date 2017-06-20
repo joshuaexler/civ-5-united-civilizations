@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_NAVAJO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NAVAJO_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NAVAJO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NAVAJO_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_NAVAJO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_NAVAJO_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_NAVAJO" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_NAVAJO_CAPITAL">
+			<Text>Canyon de Chelly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NAVAJO_CITYTHREE">
+			<Text>*Dinetah*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NAVAJO_CITYTWO">
+			<Text>Ni' Hodisxos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NAVAJO">
+			<Text>Navajo</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

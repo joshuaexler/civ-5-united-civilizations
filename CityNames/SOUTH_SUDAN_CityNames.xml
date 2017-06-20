@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOUTH_SUDAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SOUTH_SUDAN_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOUTH_SUDAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SOUTH_SUDAN_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOUTH_SUDAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SOUTH_SUDAN_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SOUTH_SUDAN" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SOUTH_SUDAN_CAPITAL">
+			<Text>Waw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOUTH_SUDAN_CITYTHREE">
+			<Text>*Juba*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOUTH_SUDAN_CITYTWO">
+			<Text>Malakal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOUTH_SUDAN">
+			<Text>South Sudan</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
