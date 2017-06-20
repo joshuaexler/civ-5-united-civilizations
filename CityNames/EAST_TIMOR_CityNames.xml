@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_EAST_TIMOR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_EAST_TIMOR_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_EAST_TIMOR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_EAST_TIMOR_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_EAST_TIMOR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_EAST_TIMOR_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_EAST_TIMOR" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_EAST_TIMOR_CAPITAL">
+			<Text>Dare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_EAST_TIMOR_CITYTHREE">
+			<Text>*Dili*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_EAST_TIMOR_CITYTWO">
+			<Text>Los Palos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_EAST_TIMOR">
+			<Text>East Timor</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

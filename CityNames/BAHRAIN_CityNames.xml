@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_BAHRAIN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BAHRAIN_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BAHRAIN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BAHRAIN_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BAHRAIN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BAHRAIN_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_BAHRAIN" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_BAHRAIN_CAPITAL">
+			<Text>al-Muharraq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BAHRAIN_CITYTHREE">
+			<Text>*Manama*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BAHRAIN_CITYTWO">
+			<Text>ar-Rifaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BAHRAIN">
+			<Text>Bahrain</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_AFGHANISTAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_AFGHANISTAN_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_AFGHANISTAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_AFGHANISTAN_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_AFGHANISTAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_AFGHANISTAN_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_AFGHANISTAN" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_AFGHANISTAN_CAPITAL">
+			<Text>Qandahar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_AFGHANISTAN_CITYTHREE">
+			<Text>*Kabul*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_AFGHANISTAN_CITYTWO">
+			<Text>Mazar-e Sarif</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_AFGHANISTAN">
+			<Text>Afghanistan</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

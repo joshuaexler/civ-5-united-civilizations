@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIRREALISMO_CAHOKIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SIRREALISMO_CAHOKIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIRREALISMO_CAHOKIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SIRREALISMO_CAHOKIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIRREALISMO_CAHOKIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SIRREALISMO_CAHOKIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SIRREALISMO_CAHOKIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SIRREALISMO_CAHOKIA_CAPITAL">
+			<Text>Michigamea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIRREALISMO_CAHOKIA_CITYTHREE">
+			<Text>*Cahokia*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIRREALISMO_CAHOKIA_CITYTWO">
+			<Text>Tamaroa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIRREALISMO_CAHOKIA">
+			<Text>Cahokia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

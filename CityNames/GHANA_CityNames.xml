@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_GHANA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GHANA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GHANA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GHANA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GHANA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GHANA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_GHANA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_GHANA_CAPITAL">
+			<Text>Kumasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GHANA_CITYTHREE">
+			<Text>*Accra*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GHANA_CITYTWO">
+			<Text>Tamale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GHANA">
+			<Text>Ghana</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

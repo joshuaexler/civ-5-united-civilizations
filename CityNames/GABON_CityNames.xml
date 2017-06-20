@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_GABON</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GABON_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GABON</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GABON_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GABON</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GABON_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_GABON" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_GABON_CAPITAL">
+			<Text>Port-Gentil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GABON_CITYTHREE">
+			<Text>*Libreville*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GABON_CITYTWO">
+			<Text>Masuku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GABON">
+			<Text>Gabon</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

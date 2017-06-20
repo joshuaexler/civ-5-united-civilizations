@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_FIJI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_FIJI_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_FIJI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_FIJI_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_FIJI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_FIJI_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_FIJI" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_FIJI_CAPITAL">
+			<Text>Lautoka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FIJI_CITYTHREE">
+			<Text>*Suva*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FIJI_CITYTWO">
+			<Text>Nausori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FIJI">
+			<Text>Fiji</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

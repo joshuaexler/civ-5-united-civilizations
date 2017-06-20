@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_BOLIVIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BOLIVIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BOLIVIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BOLIVIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BOLIVIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BOLIVIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_BOLIVIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_BOLIVIA_CAPITAL">
+			<Text>Santa Cruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOLIVIA_CITYTHREE">
+			<Text>*La Paz*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOLIVIA_CITYTWO">
+			<Text>El Alto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOLIVIA">
+			<Text>Bolivia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

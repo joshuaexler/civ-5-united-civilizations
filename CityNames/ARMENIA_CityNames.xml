@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARMENIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ARMENIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARMENIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ARMENIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARMENIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ARMENIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_ARMENIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_ARMENIA_CAPITAL">
+			<Text>Gyumri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ARMENIA_CITYTHREE">
+			<Text>*Yerevan*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ARMENIA_CITYTWO">
+			<Text>Vanadzor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ARMENIA">
+			<Text>Armenia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CHILE_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CHILE_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHILE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CHILE_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_CHILE" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_CHILE_CAPITAL">
+			<Text>Puente Alto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CHILE_CITYTHREE">
+			<Text>*Santiago*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CHILE_CITYTWO">
+			<Text>Antofagasta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CHILE">
+			<Text>Chile</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

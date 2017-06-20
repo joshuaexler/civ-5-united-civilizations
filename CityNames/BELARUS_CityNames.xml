@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_BELARUS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BELARUS_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BELARUS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BELARUS_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BELARUS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BELARUS_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_BELARUS" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_BELARUS_CAPITAL">
+			<Text>Homjel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELARUS_CITYTHREE">
+			<Text>*Minsk*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELARUS_CITYTWO">
+			<Text>Mahiljow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELARUS">
+			<Text>Belarus</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

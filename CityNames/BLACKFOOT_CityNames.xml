@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_BLACKFOOT</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BLACKFOOT_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BLACKFOOT</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BLACKFOOT_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BLACKFOOT</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BLACKFOOT_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_BLACKFOOT" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_BLACKFOOT_CAPITAL">
+			<Text>Kainaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BLACKFOOT_CITYTHREE">
+			<Text>*Siksikawa*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BLACKFOOT_CITYTWO">
+			<Text>Piikani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BLACKFOOT">
+			<Text>Blackfoot</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

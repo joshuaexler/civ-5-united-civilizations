@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_BAHAMAS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BAHAMAS_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BAHAMAS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BAHAMAS_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BAHAMAS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BAHAMAS_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_BAHAMAS" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_BAHAMAS_CAPITAL">
+			<Text>Freeport</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BAHAMAS_CITYTHREE">
+			<Text>*Nassau*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BAHAMAS_CITYTWO">
+			<Text>West End</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BAHAMAS">
+			<Text>Bahamas</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

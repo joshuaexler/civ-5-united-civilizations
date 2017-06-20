@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_BANGLADESH</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BANGLADESH_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BANGLADESH</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BANGLADESH_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BANGLADESH</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BANGLADESH_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_BANGLADESH" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_BANGLADESH_CAPITAL">
+			<Text>Chittagong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BANGLADESH_CITYTHREE">
+			<Text>*Dhaka*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BANGLADESH_CITYTWO">
+			<Text>Khulna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BANGLADESH">
+			<Text>Bangladesh</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

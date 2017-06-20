@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_GUINEA_BISSAU</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GUINEA_BISSAU_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GUINEA_BISSAU</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GUINEA_BISSAU_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GUINEA_BISSAU</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GUINEA_BISSAU_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_GUINEA_BISSAU" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_GUINEA_BISSAU_CAPITAL">
+			<Text>Bafata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GUINEA_BISSAU_CITYTHREE">
+			<Text>*Bissau*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GUINEA_BISSAU_CITYTWO">
+			<Text>Gabu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GUINEA_BISSAU">
+			<Text>Guinea-Bissau</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

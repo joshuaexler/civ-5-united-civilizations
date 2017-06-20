@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_DENENDEH</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DENENDEH_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_DENENDEH</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DENENDEH_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_DENENDEH</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DENENDEH_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_DENENDEH" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_DENENDEH_CAPITAL">
+			<Text>Hay River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DENENDEH_CITYTHREE">
+			<Text>*Yellowknife*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DENENDEH_CITYTWO">
+			<Text>Inuvik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DENENDEH">
+			<Text>Denendeh</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

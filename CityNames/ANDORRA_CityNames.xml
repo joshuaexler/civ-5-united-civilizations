@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ANDORRA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ANDORRA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ANDORRA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ANDORRA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ANDORRA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ANDORRA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_ANDORRA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_ANDORRA_CAPITAL">
+			<Text>Les Escaldes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANDORRA_CITYTHREE">
+			<Text>*Andorra la Vella*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANDORRA_CITYTWO">
+			<Text>Encamp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANDORRA">
+			<Text>Andorra</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

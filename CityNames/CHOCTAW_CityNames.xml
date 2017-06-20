@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHOCTAW</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CHOCTAW_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHOCTAW</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CHOCTAW_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHOCTAW</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CHOCTAW_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_CHOCTAW" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_CHOCTAW_CAPITAL">
+			<Text>Okla Falaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CHOCTAW_CITYTHREE">
+			<Text>*Okla Hannali*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CHOCTAW_CITYTWO">
+			<Text>Okla Tannip</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CHOCTAW">
+			<Text>Choctaw</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

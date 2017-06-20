@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ANTIGUA_AND_BARBUDA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ANTIGUA_AND_BARBUDA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ANTIGUA_AND_BARBUDA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ANTIGUA_AND_BARBUDA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ANTIGUA_AND_BARBUDA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ANTIGUA_AND_BARBUDA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_ANTIGUA_AND_BARBUDA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTIGUA_AND_BARBUDA_CAPITAL">
+			<Text>All Saints</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTIGUA_AND_BARBUDA_CITYTHREE">
+			<Text>*Saint John's*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTIGUA_AND_BARBUDA_CITYTWO">
+			<Text>Liberta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTIGUA_AND_BARBUDA">
+			<Text>Antigua & Barbuda</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHIAPAS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CHIAPAS_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHIAPAS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CHIAPAS_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHIAPAS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CHIAPAS_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_CHIAPAS" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_CHIAPAS_CAPITAL">
+			<Text>Tapachula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CHIAPAS_CITYTHREE">
+			<Text>*Tuxtla Gutierrez*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CHIAPAS_CITYTWO">
+			<Text>Comitan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CHIAPAS">
+			<Text>Chiapas</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

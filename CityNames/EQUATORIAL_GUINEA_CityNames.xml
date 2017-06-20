@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_EQUATORIAL_GUINEA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_EQUATORIAL_GUINEA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_EQUATORIAL_GUINEA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_EQUATORIAL_GUINEA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_EQUATORIAL_GUINEA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_EQUATORIAL_GUINEA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_EQUATORIAL_GUINEA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_EQUATORIAL_GUINEA_CAPITAL">
+			<Text>Bata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_EQUATORIAL_GUINEA_CITYTHREE">
+			<Text>*Malabo*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_EQUATORIAL_GUINEA_CITYTWO">
+			<Text>Ebebiyin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_EQUATORIAL_GUINEA">
+			<Text>Equatorial Guinea</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

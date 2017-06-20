@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CYPRUS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CYPRUS_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CYPRUS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CYPRUS_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CYPRUS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CYPRUS_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_CYPRUS" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_CYPRUS_CAPITAL">
+			<Text>Lemesos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CYPRUS_CITYTHREE">
+			<Text>*Nicosia*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CYPRUS_CITYTWO">
+			<Text>Larnaca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CYPRUS">
+			<Text>Cyprus</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_FINLAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_FINLAND_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_FINLAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_FINLAND_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_FINLAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_FINLAND_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_FINLAND" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_FINLAND_CAPITAL">
+			<Text>Espoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FINLAND_CITYTHREE">
+			<Text>*Helsinki*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FINLAND_CITYTWO">
+			<Text>Tampere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FINLAND">
+			<Text>Finland</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

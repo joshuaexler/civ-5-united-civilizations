@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_GRENADA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GRENADA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GRENADA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GRENADA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GRENADA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GRENADA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_GRENADA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_GRENADA_CAPITAL">
+			<Text>Gouyave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GRENADA_CITYTHREE">
+			<Text>*Saint George's*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GRENADA_CITYTWO">
+			<Text>Hillsborough</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GRENADA">
+			<Text>Grenada</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

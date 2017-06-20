@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_DOMINICA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DOMINICA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_DOMINICA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DOMINICA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_DOMINICA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DOMINICA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_DOMINICA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_DOMINICA_CAPITAL">
+			<Text>Portsmouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DOMINICA_CITYTHREE">
+			<Text>*Roseau*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DOMINICA_CITYTWO">
+			<Text>Marigot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DOMINICA">
+			<Text>Dominica</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

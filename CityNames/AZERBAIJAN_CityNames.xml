@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_AZERBAIJAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_AZERBAIJAN_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_AZERBAIJAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_AZERBAIJAN_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_AZERBAIJAN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_AZERBAIJAN_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_AZERBAIJAN" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_AZERBAIJAN_CAPITAL">
+			<Text>Ganca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_AZERBAIJAN_CITYTHREE">
+			<Text>*Baku*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_AZERBAIJAN_CITYTWO">
+			<Text>Sumqayit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_AZERBAIJAN">
+			<Text>Azerbaijan</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

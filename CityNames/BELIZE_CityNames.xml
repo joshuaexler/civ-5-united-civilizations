@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_BELIZE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BELIZE_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BELIZE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BELIZE_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BELIZE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BELIZE_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_BELIZE" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_BELIZE_CAPITAL">
+			<Text>Belize City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELIZE_CITYTHREE">
+			<Text>*Belmopan*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELIZE_CITYTWO">
+			<Text>Orange Walk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELIZE">
+			<Text>Belize</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

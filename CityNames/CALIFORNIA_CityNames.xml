@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CALIFORNIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CALIFORNIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CALIFORNIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CALIFORNIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CALIFORNIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CALIFORNIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_CALIFORNIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_CALIFORNIA_CAPITAL">
+			<Text>Los Angeles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CALIFORNIA_CITYTHREE">
+			<Text>*Sacramento*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CALIFORNIA_CITYTWO">
+			<Text>San Francisco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CALIFORNIA">
+			<Text>California</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

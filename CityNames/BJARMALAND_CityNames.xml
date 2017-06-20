@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_BJARMALAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BJARMALAND_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BJARMALAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BJARMALAND_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BJARMALAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BJARMALAND_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_BJARMALAND" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_BJARMALAND_CAPITAL">
+			<Text>Berga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BJARMALAND_CITYTHREE">
+			<Text>*Stari*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BJARMALAND_CITYTWO">
+			<Text>Danhof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BJARMALAND">
+			<Text>Bjarmaland</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

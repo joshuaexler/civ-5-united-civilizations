@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARGENTINA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ARGENTINA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARGENTINA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ARGENTINA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARGENTINA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ARGENTINA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_ARGENTINA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_ARGENTINA_CAPITAL">
+			<Text>Cordoba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ARGENTINA_CITYTHREE">
+			<Text>*Buenos Aires*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ARGENTINA_CITYTWO">
+			<Text>Rosario</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ARGENTINA">
+			<Text>Argentina</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

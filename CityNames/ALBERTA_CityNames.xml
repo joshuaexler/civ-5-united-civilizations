@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ALBERTA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ALBERTA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ALBERTA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ALBERTA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ALBERTA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ALBERTA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_ALBERTA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_ALBERTA_CAPITAL">
+			<Text>Calgary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALBERTA_CITYTHREE">
+			<Text>*Edmonton*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALBERTA_CITYTWO">
+			<Text>Red Deer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALBERTA">
+			<Text>Alberta</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

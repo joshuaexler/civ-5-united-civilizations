@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CROW</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CROW_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CROW</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CROW_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CROW</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CROW_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_CROW" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_CROW_CAPITAL">
+			<Text>Binneessiippeele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CROW_CITYTHREE">
+			<Text>*Awaxaawaxammilaxpaake*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CROW_CITYTWO">
+			<Text>Ammitaalasshe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CROW">
+			<Text>Crow</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

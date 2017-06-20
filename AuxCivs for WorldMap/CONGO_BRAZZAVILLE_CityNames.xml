@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CONGO_BRAZZAVILLE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CONGO_BRAZZAVILLE_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CONGO_BRAZZAVILLE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CONGO_BRAZZAVILLE_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CONGO_BRAZZAVILLE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CONGO_BRAZZAVILLE_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_CONGO_BRAZZAVILLE" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_CONGO_BRAZZAVILLE_CAPITAL">
+			<Text>Pointe Noire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CONGO_BRAZZAVILLE_CITYTHREE">
+			<Text>*Brazzaville*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CONGO_BRAZZAVILLE_CITYTWO">
+			<Text>Loubomo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CONGO_BRAZZAVILLE">
+			<Text>Congo-Brazzaville</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

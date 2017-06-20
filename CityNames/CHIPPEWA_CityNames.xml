@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHIPPEWA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CHIPPEWA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHIPPEWA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CHIPPEWA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHIPPEWA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CHIPPEWA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_CHIPPEWA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_CHIPPEWA_CAPITAL">
+			<Text>Misi-zaagiwininiwag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CHIPPEWA_CITYTHREE">
+			<Text>*Baawitigowininiwag*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CHIPPEWA_CITYTWO">
+			<Text>Goojijiwininiwag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CHIPPEWA">
+			<Text>Chippewa</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

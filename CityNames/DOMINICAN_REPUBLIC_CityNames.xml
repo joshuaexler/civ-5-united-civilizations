@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_DOMINICAN_REPUBLIC</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DOMINICAN_REPUBLIC_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_DOMINICAN_REPUBLIC</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DOMINICAN_REPUBLIC_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_DOMINICAN_REPUBLIC</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DOMINICAN_REPUBLIC_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_DOMINICAN_REPUBLIC" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_DOMINICAN_REPUBLIC_CAPITAL">
+			<Text>Santiago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DOMINICAN_REPUBLIC_CITYTHREE">
+			<Text>*Santo Domingo*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DOMINICAN_REPUBLIC_CITYTWO">
+			<Text>San Pedro de Macoris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DOMINICAN_REPUBLIC">
+			<Text>Dominican Republic</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

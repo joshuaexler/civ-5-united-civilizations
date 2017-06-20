@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_EL_SALVADOR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_EL_SALVADOR_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_EL_SALVADOR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_EL_SALVADOR_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_EL_SALVADOR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_EL_SALVADOR_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_EL_SALVADOR" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_EL_SALVADOR_CAPITAL">
+			<Text>Santa Ana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_EL_SALVADOR_CITYTHREE">
+			<Text>*San Salvador*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_EL_SALVADOR_CITYTWO">
+			<Text>Soyapango</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_EL_SALVADOR">
+			<Text>El Salvador</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

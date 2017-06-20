@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CONGO_KINSHASA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CONGO_KINSHASA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CONGO_KINSHASA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CONGO_KINSHASA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CONGO_KINSHASA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CONGO_KINSHASA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_CONGO_KINSHASA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_CONGO_KINSHASA_CAPITAL">
+			<Text>Lubumbashi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CONGO_KINSHASA_CITYTHREE">
+			<Text>*Kinshasa*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CONGO_KINSHASA_CITYTWO">
+			<Text>Mbuji-Mayi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CONGO_KINSHASA">
+			<Text>Congo-Kinshasa</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

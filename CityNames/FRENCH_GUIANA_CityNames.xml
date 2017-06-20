@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_FRENCH_GUIANA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_FRENCH_GUIANA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_FRENCH_GUIANA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_FRENCH_GUIANA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_FRENCH_GUIANA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_FRENCH_GUIANA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_FRENCH_GUIANA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_FRENCH_GUIANA_CAPITAL">
+			<Text>Saint-Laurent-du-Maroni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FRENCH_GUIANA_CITYTHREE">
+			<Text>*Cayenne*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FRENCH_GUIANA_CITYTWO">
+			<Text>Kourou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FRENCH_GUIANA">
+			<Text>French Guiana</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

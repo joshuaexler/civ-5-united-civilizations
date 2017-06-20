@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHAD</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CHAD_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHAD</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CHAD_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CHAD</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CHAD_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_CHAD" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_CHAD_CAPITAL">
+			<Text>Moundou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CHAD_CITYTHREE">
+			<Text>*N'Djamena*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CHAD_CITYTWO">
+			<Text>Sarh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CHAD">
+			<Text>Chad</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

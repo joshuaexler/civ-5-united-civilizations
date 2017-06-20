@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_BOSNIA_AND_HERZEGOVINA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BOSNIA_AND_HERZEGOVINA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BOSNIA_AND_HERZEGOVINA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BOSNIA_AND_HERZEGOVINA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BOSNIA_AND_HERZEGOVINA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BOSNIA_AND_HERZEGOVINA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_BOSNIA_AND_HERZEGOVINA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_BOSNIA_AND_HERZEGOVINA_CAPITAL">
+			<Text>Banja Luka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOSNIA_AND_HERZEGOVINA_CITYTHREE">
+			<Text>*Sarajevo*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOSNIA_AND_HERZEGOVINA_CITYTWO">
+			<Text>Zenica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOSNIA_AND_HERZEGOVINA">
+			<Text>Bosnia & Herzegovina</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

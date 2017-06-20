@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_GREENLAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GREENLAND_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GREENLAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GREENLAND_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GREENLAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GREENLAND_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_GREENLAND" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_GREENLAND_CAPITAL">
+			<Text>Sisimiut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GREENLAND_CITYTHREE">
+			<Text>*Nuuk*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GREENLAND_CITYTWO">
+			<Text>Ilulissat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GREENLAND">
+			<Text>Greenland</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

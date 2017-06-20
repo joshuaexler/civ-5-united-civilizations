@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ANGOLA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ANGOLA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ANGOLA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ANGOLA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ANGOLA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ANGOLA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_ANGOLA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_ANGOLA_CAPITAL">
+			<Text>Huambo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANGOLA_CITYTHREE">
+			<Text>*Luanda*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANGOLA_CITYTWO">
+			<Text>Lobito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANGOLA">
+			<Text>Angola</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

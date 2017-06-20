@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_APACHE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_APACHE_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_APACHE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_APACHE_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_APACHE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_APACHE_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_APACHE" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_APACHE_CAPITAL">
+			<Text>Tinde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_APACHE_CITYTHREE">
+			<Text>*Shis-Inday*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_APACHE_CITYTWO">
+			<Text>Lepai-Nde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_APACHE">
+			<Text>Apache</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

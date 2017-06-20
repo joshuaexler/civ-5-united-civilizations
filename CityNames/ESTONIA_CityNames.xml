@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ESTONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ESTONIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ESTONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ESTONIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ESTONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ESTONIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_ESTONIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_ESTONIA_CAPITAL">
+			<Text>Tartu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ESTONIA_CITYTHREE">
+			<Text>*Tallinn*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ESTONIA_CITYTWO">
+			<Text>Narva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ESTONIA">
+			<Text>Estonia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

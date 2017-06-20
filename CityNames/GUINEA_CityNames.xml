@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_GUINEA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GUINEA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GUINEA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GUINEA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GUINEA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GUINEA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_GUINEA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_GUINEA_CAPITAL">
+			<Text>Nzerekore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GUINEA_CITYTHREE">
+			<Text>*Conakry*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GUINEA_CITYTWO">
+			<Text>Kindia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GUINEA">
+			<Text>Guinea</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CAMEROON</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CAMEROON_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CAMEROON</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CAMEROON_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CAMEROON</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CAMEROON_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_CAMEROON" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_CAMEROON_CAPITAL">
+			<Text>Douala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAMEROON_CITYTHREE">
+			<Text>*Yaounde*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAMEROON_CITYTWO">
+			<Text>Garoua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAMEROON">
+			<Text>Cameroon</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

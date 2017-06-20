@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CATALONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CATALONIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CATALONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CATALONIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CATALONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CATALONIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_CATALONIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_CATALONIA_CAPITAL">
+			<Text>Tarragona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CATALONIA_CITYTHREE">
+			<Text>*Barcelona*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CATALONIA_CITYTWO">
+			<Text>Lleida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CATALONIA">
+			<Text>Catalonia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

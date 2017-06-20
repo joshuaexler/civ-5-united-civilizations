@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ECUADOR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ECUADOR_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ECUADOR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ECUADOR_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ECUADOR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ECUADOR_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_ECUADOR" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_ECUADOR_CAPITAL">
+			<Text>Guayaquil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ECUADOR_CITYTHREE">
+			<Text>*Quito*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ECUADOR_CITYTWO">
+			<Text>Cuenca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ECUADOR">
+			<Text>Ecuador</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

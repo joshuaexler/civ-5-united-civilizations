@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ALBANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ALBANIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ALBANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ALBANIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ALBANIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ALBANIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_ALBANIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_ALBANIA_CAPITAL">
+			<Text>Durres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALBANIA_CITYTHREE">
+			<Text>*Tirana*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALBANIA_CITYTWO">
+			<Text>Elbasan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALBANIA">
+			<Text>Albania</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

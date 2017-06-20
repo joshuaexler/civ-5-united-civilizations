@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_DENMARK</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DENMARK_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_DENMARK</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DENMARK_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_DENMARK</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DENMARK_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_DENMARK" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_DENMARK_CAPITAL">
+			<Text>Aarhus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DENMARK_CITYTHREE">
+			<Text>*Copenhagen*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DENMARK_CITYTWO">
+			<Text>Odense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DENMARK">
+			<Text>Denmark</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

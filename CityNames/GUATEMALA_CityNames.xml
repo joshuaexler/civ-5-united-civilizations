@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_GUATEMALA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GUATEMALA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GUATEMALA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GUATEMALA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GUATEMALA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GUATEMALA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_GUATEMALA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_GUATEMALA_CAPITAL">
+			<Text>Mixco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GUATEMALA_CITYTHREE">
+			<Text>*Guatemala City*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GUATEMALA_CITYTWO">
+			<Text>Villa Nueva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GUATEMALA">
+			<Text>Guatemala</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

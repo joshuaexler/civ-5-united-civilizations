@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARAPAHO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ARAPAHO_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARAPAHO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ARAPAHO_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ARAPAHO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ARAPAHO_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_ARAPAHO" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_ARAPAHO_CAPITAL">
+			<Text>Nawunena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ARAPAHO_CITYTHREE">
+			<Text>*Nakasine'na*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ARAPAHO_CITYTWO">
+			<Text>Aa'ninena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ARAPAHO">
+			<Text>Arapaho</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_ALGONQUIN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ALGONQUIN_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ALGONQUIN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ALGONQUIN_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ALGONQUIN</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_ALGONQUIN_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_ALGONQUIN" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_ALGONQUIN_CAPITAL">
+			<Text>Wampanoag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALGONQUIN_CITYTHREE">
+			<Text>*Potawatomi*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALGONQUIN_CITYTWO">
+			<Text>Wabanaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALGONQUIN">
+			<Text>Algonquin</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

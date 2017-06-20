@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_BABYLONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BABYLONIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BABYLONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BABYLONIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BABYLONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BABYLONIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_BABYLONIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_BABYLONIA_CAPITAL">
+			<Text>Kish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BABYLONIA_CITYTHREE">
+			<Text>*Babylon*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BABYLONIA_CITYTWO">
+			<Text>Nippur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BABYLONIA">
+			<Text>Babylonia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

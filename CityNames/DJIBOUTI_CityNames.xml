@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_DJIBOUTI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DJIBOUTI_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_DJIBOUTI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DJIBOUTI_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_DJIBOUTI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DJIBOUTI_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_DJIBOUTI" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_DJIBOUTI_CAPITAL">
+			<Text>Ali Sabieh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DJIBOUTI_CITYTHREE">
+			<Text>*Djibouti*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DJIBOUTI_CITYTWO">
+			<Text>Tajurah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DJIBOUTI">
+			<Text>Djibouti</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

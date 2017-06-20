@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MALI_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MALI_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MALI_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_MALI" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_MALI_CAPITAL">
+			<Text>Timbuktu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALI_CITYTHREE">
+			<Text>*Bamako*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALI_CITYTWO">
+			<Text>Sikasso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALI">
+			<Text>Mali</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

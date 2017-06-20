@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_MEXICO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MEXICO_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MEXICO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MEXICO_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MEXICO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MEXICO_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_MEXICO" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_MEXICO_CAPITAL">
+			<Text>Guadalajara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MEXICO_CITYTHREE">
+			<Text>*Mexico City*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MEXICO_CITYTWO">
+			<Text>Monterrey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MEXICO">
+			<Text>Mexico</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

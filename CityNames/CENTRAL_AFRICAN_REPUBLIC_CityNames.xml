@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CENTRAL_AFRICAN_REPUBLIC</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CENTRAL_AFRICAN_REPUBLIC_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CENTRAL_AFRICAN_REPUBLIC</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CENTRAL_AFRICAN_REPUBLIC_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CENTRAL_AFRICAN_REPUBLIC</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CENTRAL_AFRICAN_REPUBLIC_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_CENTRAL_AFRICAN_REPUBLIC" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_CENTRAL_AFRICAN_REPUBLIC_CAPITAL">
+			<Text>Bimbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CENTRAL_AFRICAN_REPUBLIC_CITYTHREE">
+			<Text>*Bangui*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CENTRAL_AFRICAN_REPUBLIC_CITYTWO">
+			<Text>Mbaiki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CENTRAL_AFRICAN_REPUBLIC">
+			<Text>Central African Republic</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

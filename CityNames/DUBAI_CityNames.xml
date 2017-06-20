@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_DUBAI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DUBAI_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_DUBAI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DUBAI_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_DUBAI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_DUBAI_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_DUBAI" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_DUBAI_CAPITAL">
+			<Text>Jebel Ali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DUBAI_CITYTHREE">
+			<Text>*Dubai*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DUBAI_CITYTWO">
+			<Text>Al Quoz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DUBAI">
+			<Text>Dubai</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

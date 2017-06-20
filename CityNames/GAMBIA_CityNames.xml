@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_GAMBIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GAMBIA_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GAMBIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GAMBIA_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GAMBIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_GAMBIA_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_GAMBIA" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_GAMBIA_CAPITAL">
+			<Text>Serre Kunda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GAMBIA_CITYTHREE">
+			<Text>*Banjul*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GAMBIA_CITYTWO">
+			<Text>Brikama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GAMBIA">
+			<Text>Gambia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

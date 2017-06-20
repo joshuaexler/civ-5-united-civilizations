@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_BURUNDI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BURUNDI_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BURUNDI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BURUNDI_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BURUNDI</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_BURUNDI_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_BURUNDI" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_BURUNDI_CAPITAL">
+			<Text>Muyinga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BURUNDI_CITYTHREE">
+			<Text>*Bujumbura*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BURUNDI_CITYTWO">
+			<Text>Ruyigi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BURUNDI">
+			<Text>Burundi</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

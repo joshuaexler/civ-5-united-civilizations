@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_MYANMAR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MYANMAR_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MYANMAR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MYANMAR_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MYANMAR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MYANMAR_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_MYANMAR" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_MYANMAR_CAPITAL">
+			<Text>Mandalay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MYANMAR_CITYTHREE">
+			<Text>*Rangoon*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MYANMAR_CITYTWO">
+			<Text>Mawlamyine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MYANMAR">
+			<Text>Myanmar</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

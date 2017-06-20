@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SUMER</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SUMER_CITYTHREE</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SUMER</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SUMER_CAPITAL</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SUMER</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SUMER_CITYTWO</CityName>
+		</Row>
+		<Delete CityName="TXT_KEY_CITYSTATE_SUMER" />
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_SUMER_CAPITAL">
+			<Text>Bad-tibira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SUMER_CITYTHREE">
+			<Text>*Ur*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SUMER_CITYTWO">
+			<Text>Uruk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SUMER">
+			<Text>Sumer</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
